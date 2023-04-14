@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate software developer from Sacramento, CA</h3>
 
